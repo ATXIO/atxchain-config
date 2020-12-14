@@ -1,5 +1,3 @@
-# atxchain-config
-
-Chain-Configuration
+# Chain-Configuration
 
 ATX Network chain configuration
