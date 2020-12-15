@@ -29,8 +29,7 @@
       "system": [
         "eosio",
         "eosio.token",
-        "eosio.msig",
-        "eosio.forum"
+        "eosio.msig"
       ],
       "endpoints": [
         {
