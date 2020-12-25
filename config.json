@@ -10,7 +10,7 @@
       "firstApi": "http://144.91.99.232:8712",
       "historyApi": "http://144.91.99.232:8712/v2",
       "hyperionApis": [ 
-              "https://tigerstarcoin.com/v2"
+              "http://tigerstarcoin.com/v2"
             ],
       "forumTally": "",
       "lastNode": "http://144.91.99.232:8712",
